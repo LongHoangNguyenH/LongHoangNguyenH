@@ -10,8 +10,8 @@ I'm a software developer, I love learning about new things and I'm trying to do 
   ### Databases
   [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,prisma&theme=light)](https://skillicons.dev)
   ### Languages:
-  [![My Skills](https://skillicons.dev/icons?i=java,js,nodejs,ts,go,py&theme=light)](https://skillicons.dev) 
-  \\ **Programming language is not problem with me.**
+  [![My Skills](https://skillicons.dev/icons?i=java,js,nodejs,ts,go,py&theme=light)](https://skillicons.dev) \\
+  **Programming language is not problem with me.**
 ## 🔗 Connect with me
 - Email: longnh.uit@gmail.com
 - Phone: +84866570238

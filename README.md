@@ -10,7 +10,11 @@ Action already setup In this template, you just need click `use this template` b
 | :-------: | :-------------------------------------------------------------------------------------------------------- |
 
 
-![](https://raw.githubusercontent.com/LongHoangNguyenH/LongHoangNguyenH/master/profile-summary-card-output/ayu_mirage/0-profile-details.svg)
+
+[![](https://raw.githubusercontent.com/LongHoangNguyenH/LongHoangNguyenH/master/profile-summary-card-output/ayu_mirage/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/LongHoangNguyenH/LongHoangNguyenH/master/profile-summary-card-output/ayu_mirage/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) ![](https://raw.githubusercontent.com/LongHoangNguyenH/LongHoangNguyenH/master/profile-summary-card-output/ayu_mirage/3-stats.svg)
+
+
 
 
 [More Info](https://github.com/vn7n24fzkq/github-profile-summary-cards)

@@ -6,7 +6,7 @@ I'm a software developer, I love learning about new things and I'm trying to do 
 
 ## Stack 
   ### Techs
-   [![My Skills](https://skillicons.dev/icons?i=nestjs,react,docker,graphql&theme=light)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=nestjs,react,docker,graphql,nextjs&theme=light)](https://skillicons.dev)
   ### Databases
   [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,prisma&theme=light)](https://skillicons.dev)
   ### Languages - (**Programming language is not problem with me**)

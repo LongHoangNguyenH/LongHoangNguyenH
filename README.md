@@ -8,7 +8,7 @@ I'm a software developer, I love learning about new things and I'm trying to do 
   ### Techs
    [![My Skills](https://skillicons.dev/icons?i=nestjs,react,docker,graphql,nextjs&theme=light)](https://skillicons.dev)
   ### Databases
-  [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,prisma&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,prisma&theme=light,typeorm)](https://skillicons.dev)
   ### Languages 
   [![My Skills](https://skillicons.dev/icons?i=java,js,nodejs,ts,go,py&theme=light)](https://skillicons.dev)
   

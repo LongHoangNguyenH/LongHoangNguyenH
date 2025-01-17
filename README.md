@@ -8,10 +8,10 @@
 [![](https://raw.githubusercontent.com/LongHoangNguyenH/LongHoangNguyenH/master/profile-summary-card-output/ayu_mirage/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <div align="center">
-  <img src="https://github.com/LongHoangNguyenH/LongHoangNguyenH/blob/main/divider1.png" alt="divider"/>
+  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>
 </div> 
 
-<h3 align="center"><img src="https://github.com/LongHoangNguyenH/LongHoangNguyenH/blob/main/code.gif" height="20"/> Tech & Tools and My Activity</h3>
+<h3 align="center"><img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/> Tech & Tools and My Activity</h3>
 
 <div align="center" style="witdh:100%"> 
   <table>
